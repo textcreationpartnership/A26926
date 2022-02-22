@@ -1,0 +1,536 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Excellent memorables for all mourners especially mourners for the loss of dearest relations : gathered out of Mr. B's prepared (though not preached) farewel sermon, at Kederminster, Aug. 24, 1662, upon our Savior's words.</title>
+            <author>Baxter, Richard, 1615-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26926</idno>
+            <idno type="STC">Wing B1261</idno>
+            <idno type="STC">ESTC R15176</idno>
+            <idno type="EEBO-CITATION">12542986</idno>
+            <idno type="OCLC">ocm 12542986</idno>
+            <idno type="VID">62997</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26926)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62997)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 305:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Excellent memorables for all mourners especially mourners for the loss of dearest relations : gathered out of Mr. B's prepared (though not preached) farewel sermon, at Kederminster, Aug. 24, 1662, upon our Savior's words.</title>
+                  <author>Baxter, Richard, 1615-1691.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Richard Baxter. Cf. Halkett &amp; Laing (2nd ed.).</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Consolation --  Quotations, maxims, etc.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:62997:1" rendition="simple:additions"/>
+            <head>Excellent Memorables for all Mourners: Eſpecially Mourners for the Loſs of Deareſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Gathered out of Mr. <hi>B</hi>'s prepared (though not Preached) Farewel Sermon, at <hi>Kederminſter, Aug.</hi> 24. 1662. upon our Saviours <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>John 16.22.</hi>
+                  </bibl>
+                  <p>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> therefore have ſorrow, but I will ſee you again, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Hearts ſhall rejoice, and your joy no Man tak<g ref="char:EOLhyphen"/>e<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> you.</p>
+               </q>
+            </epigraph>
+            <p>THE Separation of dear Friends, made by Perſecu<g ref="char:EOLhyphen"/>tion or Affliction, doth ſomewhat reſemble Death it ſelf. It doth ſo in Eleven particulars.</p>
+            <p n="1">1. Death is <hi>the Separation of dear Companions;</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p n="2">2 Death is <hi>
+                  <g ref="char:V">Ʋ</g>nwelcom unto Both of them:</hi> ſo is the ſaid Se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="3">3 Death is <hi>the end of Humane Converſe;</hi> ſo is that.</p>
+            <p n="4">4 Death is <hi>the end of Earthly Comforts;</hi> ſo is that.</p>
+            <p n="5">5 Death is <hi>the end of Humane Labours;</hi> ſo is that.</p>
+            <p n="6">6 Death is <hi>the effect of Sickneſs, and uſually of Folly, and In<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and Overſight of our ſelves;</hi> ſo is that alſo, moſt com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="7">7 Death <hi>puts ſurviving Friends into Mourning;</hi> ſo doth that.</p>
+            <p n="8">8 Death is <hi>the end of all the Living;</hi> ſo is that.</p>
+            <p n="9">9 Death is <hi>followed with Judgment, God's and Man's;</hi> ſo is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <p n="10">10 Death <hi>deſtroys not the Relations of Soul and Body, ſepa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> doth the ſaid Separation of Friends deſtroy their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> unto each other.</p>
+            <p n="11">11. Death's <hi>Power is not Everlaſting; there will be a Reſur<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> So the Power of the ſaid Separation is not Everlaſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Godly Friends will ſurely meet again in that Kingdom <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> admits of no parting.</p>
+            <p n="12">12. Death, I would add, <hi>Works good to the Saints:</hi> and ſo in the ſaid Separation, as grievous as it is to ſenſe, <hi>Rom.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>But yet this ſaid Separation reſembles not Death in all <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or,</p>
+            <p n="1">1. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Friend is the Life of his Friend; no Paſtor is the Life</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>; as the Soul is the Life of it's Body. It is Chriſt alone is our Head and Life.</p>
+            <p n="2">2. And <hi>the Continuance of ones Welfare depends not on the con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of my Friend with us. A Church-ſtate depends not on <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of any one ſingle Paſtor whatever.</hi>
+            </p>
+            <p>The <hi>Text</hi> contains, [and happy is he that well attains and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,] theſe Six <hi>Doctrinal Propoſitions.</hi>
+            </p>
+            <p>D 1. <hi>Sorrow goes before Joy, with Chriſts Diſciples.</hi> Even<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> before Morning. Their Sowing in Tears, before Reap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Joy. Their Pain of Travel, before Joy of Birth. Se<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Sorrow, go before their compleat Joy.</p>
+            <p n="1">1. <hi>Sinful Sorrows go before it.</hi> Though they ſhould not do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> do ever ſo do. Worldly, Paſſionate, Peeviſh Sor<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that are Poſitively Sinful.</p>
+            <p n="2">2. <hi>Sorrows in their nature Lawful, and only in their degree ſin<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> before it.</hi> Theſe be our Exceſſive troubles, at things <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we may Lawfully Sorrow for, with Moderation.</p>
+            <p n="3">3 <hi>Sorrows meerly Natural do go before it.</hi> Such as <hi>Wearineſs</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Labour, <hi>Painedneſs</hi> with our Diſeaſes, <hi>grievous Feel<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Heat and Cold, of Hunger and Thirſt.</p>
+            <p n="4">4 <hi>Sorrows Caſtigatory go before it.</hi> Theſe be God's <hi>Cha<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which have a tendency to do us good, if they be <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> improved. Such be all Sufferings in our Souls, Bodies, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Eſtates and Friends.</p>
+            <p n="5">5. <hi>Sorrows Honourable and gainful go before it.</hi> Theſe be Suf<g ref="char:EOLhyphen"/>ferings from Men for the ſake of Chriſt &amp; the cauſe of Chriſt.</p>
+            <p n="6">6 <hi>Sorrows Penitential do go before it.</hi> Theſe are Contrition <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> true Repentance, Faſting, Abſtinence, and Humiliation. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eſe Sorrows we muſt inflict upon our ſelves, to Kill Sin, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to Promote the work of Grace.</p>
+            <p n="7">7. <hi>Sorrows Charitable do go before it.</hi> Theſe be ſuch as the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of God and of his Church; and our Pity of the periſh<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World, do affect us with. Even as long as we live in a <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo full of Sin and Miſery.</p>
+            <p>Hear five Reaſons for Sorrow's going before Joy.</p>
+            <p>R 1. <hi>God will have ſome Conformity between the order of PLACE and NAT<g ref="char:V">Ʋ</g>RE.</hi> In Nature, Nothingneſs was be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Being; Infancy before Manhood; Weakneſs before <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; Crying before Laughter. No wonder then, if <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Sorrow be before our Joy.</p>
+            <p>R 2. <hi>Sin goes before Grace; and we are the firſt</hi> Adam<hi>'s <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, before we are Chriſt's.</hi> It is therefore but juſt that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhould be before Joy, where Satan goes before Chriſt.</p>
+            <p>R 3. <hi>God ſeeth this to be the fitteſt Method for our Cure.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> may Deny our ſelves, we muſt know how little we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> beholden to our ſelves; and muſt ſmart by the fruit of our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Folly, before we are eaſed by the fruit of Grace and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>R 4. <hi>Fore-going Sorrows raiſe the price of following Mercies.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that come out of great Tribulation, will joyfully ſing <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of their Redeemer.</p>
+            <p>R 5. <hi>God will have the Members conformed unto their Head.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> went to the Crown by the Croſs; and ſo ſhall they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Chriſts. God's Will, alone, ſhould ſatisfie our <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concerning this matter: But theſe Reaſons do ſet to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Equity and Goodneſs of God's Will and Way.</p>
+            <p>Learn hence two things Exhorted.</p>
+            <p>E 1. <hi>Judge of your Sorrows not by your preſent Senſe, but by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <g ref="char:V">Ʋ</g>ſe and Tendency.</hi> Count them Purges, and Vomits; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you like beſt, when they work in the way wherein <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> uſe to Cure ſuch as take them. Remember, Sirs, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>,</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1. <hi>Who is it you ſuffer by?</hi> Is it one that you ſuſpect of <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Power, Wiſdom, or Goodneſs?</p>
+            <p>Q. 2. <hi>See you not that Carnal Pleaſure is far more dangerous than all your Sorrow?</hi> Would you be in the condition of the ungodly, that proſper in the World?</p>
+            <p>Q. 3. <hi>Would you not rather follow your Saviour, and be conformed to Him and his Saints, than to the Wicked?</hi> Would you not go the com<g ref="char:EOLhyphen"/>mon way to Heaven?</p>
+            <p>Q. 4. <hi>Hath not Suffering done you good, and the Croſs bore you good Fruit?</hi> Why then afraid of it, and why ſo deſirous of the Eaſe and Pleaſure that hath often Hurt you?</p>
+            <p>Obj. <hi>But 'tis not all Sorrow that foretells Joy.</hi>
+            </p>
+            <p>
+               <hi>Sol.</hi> No, but all Sorrow of theſe three ſorts doth foretell it.</p>
+            <p n="1">1. Sorrow <hi>undergone in ſincerity for Chriſt's cauſe and ſake.</hi>
+            </p>
+            <p n="2">2. Sorrow <hi>performed as a Duty, for Gods diſhonour by our own and other Mens ſins, and for Miſeries thence riſing.</hi>
+            </p>
+            <p n="3">3. Sorrow <hi>of Chaſtiſement patiently ſuffered, and improved unto Refor<g ref="char:EOLhyphen"/>mation.</hi>
+            </p>
+            <p>E. 2. <hi>Condemn not the Generation of the Juſt, becauſe you ſee them ſuf<g ref="char:EOLhyphen"/>fer more than other Men.</hi> Be not as ſome Beaſts; which, when one of their Fellows is wounded, do all forſake him. —And yet, err not on the other hand; think not that all be Bleſſed hereafter, that be Afflicted here. Know the Cauſe, e're you judge of the Suffering.</p>
+            <p>D. 2. <hi>Chriſt's Death and Departure was the cauſe of his Diſciples Sor<g ref="char:EOLhyphen"/>row.</hi> Three things grieved them;</p>
+            <p n="1">1. That <hi>their Beloved Lord muſt be took from them.</hi>
+            </p>
+            <p n="2">2. That <hi>He muſt Die in ſuch a manner, painfully and ignominiouſly.</hi>
+            </p>
+            <p n="3">3. That <hi>He muſt Die while they had ſo little fore-ſight of his Reſurrection and Return.</hi> Had they known what would follow, they had been leſs troubled.</p>
+            <p>D. 3. <hi>The Sorrows of Chriſt's Diſciples are but ſhort.</hi> For,</p>
+            <p>R. 1. <hi>Life is but ſhort.</hi>
+            </p>
+            <p>R. 2. <hi>God's diſpleaſure with his Servants, is but ſhort,</hi> Pſal. 30.5.</p>
+            <p>R. 3. <hi>Our Trial, muſt be but ſhort.</hi> God will ſee that the Furnace be not too Hot, nor we in it too Long.</p>
+            <p>R. 4. <hi>The Power of thoſe that afflict us, is but ſhort.</hi>
+            </p>
+            <p>Obſerve then,</p>
+            <p n="1">I. 1. <hi>Religion is not a whit diſparaged by ſhort and ſmall Sufferings.</hi> Do any think them long? Let them conſider,</p>
+            <p n="1">1. <hi>Your Suffering will be no longer than your Sin.</hi>
+            </p>
+            <p n="2">2. <hi>Nor any longer than you make them NECESSARY.</hi>
+            </p>
+            <p n="3">3. <hi>No, not ſo long as you do deſerve.</hi>
+            </p>
+            <p n="4">4. <hi>Nor ſo long as the Sufferings of the <g ref="char:V">Ʋ</g>ngodly,</hi> &amp;c.</p>
+            <p n="5">5. <hi>Nor ſo long as your following Joys; nor ſo great.</hi>
+            </p>
+            <p n="1">I. 2. <hi>It is reaſonable that we moderate and mix our Sorrows with Joy.</hi> Being they be as hath been ſaid; <hi>Rejoice evermore,</hi> is no unreaſon<g ref="char:EOLhyphen"/>able command.</p>
+            <p>D. 4. <hi>Christ will again viſit his ſorrowful Diſciples.</hi> He means not to forſake them, when he hides his Face from them. For why?</p>
+            <p>R. 1. <hi>He hath Conquered the greatest Enemies already; and there be none remaining to Conquer Him.</hi>
+            </p>
+            <p>R. 2. <hi>He retains ſtill his Relation unto his Diſciples.</hi> He is their Head, while they ſuffer ſo in the World.</p>
+            <p>R. 3. <hi>He loveth us now He is in Heaven as much as ever He did on Earth.</hi> He lays not by the leaſt meaſure of his Love.</p>
+            <p>R. 4. <hi>His Covenant with his Servants is ſtill in force.</hi> And his Pro<g ref="char:EOLhyphen"/>miſes cannot be broken.</p>
+            <p>R. 5. <hi>His own Intereſt, Honour, Office, Preparations, do engage him to return unto his diſconſolate Flock.</hi> It doth ſo; And,</p>
+            <p>R. 6. <hi>It is for their ſakes that He withdraweth for a time.</hi> The Bitter of it, is intended as Medicinal for their Benefit. John 16.7. <hi>It is ex<g ref="char:EOLhyphen"/>pedient for you that I go away.</hi>
+            </p>
+            <p>Mark ye then, and be Exhorted.</p>
+            <p>E. 1. <hi>Miſunderſtand not the Departings of your Lord.</hi> Say not with the Evil Servant, My Lord delayeth his coming.</p>
+            <p n="1">1. <hi>He will Return to Judge the World,</hi> at his appointed day, <hi>Job</hi> 19.25.</p>
+            <p n="2">2. <hi>He will Return to his ſeemingly Forſaken Flocks.</hi> And give them Paſtors after his own Heart, <hi>Jer.</hi> 3.14.</p>
+            <p n="3">3. <hi>He will Return to the Souls of his particular Servants ſeemingly For<g ref="char:EOLhyphen"/>ſaken.</hi> Weeping endures for a Night, but Joy cometh in the Morn<g ref="char:EOLhyphen"/>ing, <hi>Pſal.</hi> 30.5.</p>
+            <p>E. 2. <hi>Learn to behave your ſelves well, till Chriſt doth Return unto you.</hi> Particularly,</p>
+            <p n="1">1. <hi>Bear his Abſence, but be not Pleaſed with it.</hi>
+            </p>
+            <p n="2">2. <hi>Be not too Indifferent neither, but Reſent it much.</hi>
+            </p>
+            <p n="3">3. <hi>Be not drawn to take another Lord, or Portion, in his ſtead.</hi> Let not Riches, <hi>&amp;c.</hi> ſerve you inſtead of Chriſt.</p>
+            <p n="4">4. <hi>Be not emboldened to Sin by his Abſence.</hi>
+            </p>
+            <p n="5">5. <hi>Be not diſcouraged from Duty, by his Abſence,</hi> Heb. 12.12.</p>
+            <p>D. 5. <hi>When Chriſt ſhall again appear to his Diſciples, their Sorrows ſhall be turned into Joy.</hi> When He comes, Joy comes with him. When the Sun riſeth, it is Light day, and Froſts are thawed, and all things revived.</p>
+            <p n="1">1. <hi>The Deſerted Soul turns from Complaint, to Triumph.</hi> He that ſaid, There is no hope; now ſays, My Lord and my God.</p>
+            <p n="2">2. <hi>The Deſerted Church doth the ſame.</hi> Joying in its reſtored Ordi<g ref="char:EOLhyphen"/>nances, Order, Opportunities, and Advantages.</p>
+            <p n="3">3. <hi>The <g ref="char:V">Ʋ</g>niverſal Church ſhall have an end of their Sorrows, and a Har<g ref="char:EOLhyphen"/>veſt of Joys, when Chriſt returns at the laſt day.</hi>
+            </p>
+            <p>And here attend ye well.</p>
+            <p n="1">1. <hi>It is Chriſt Himſelf that is the Believers Joy.</hi> The Beloved of their Souls.</p>
+            <p n="2">2. <hi>And He will not come Alone neither.</hi> He brings an innumerable Company of Bleſſed Saints and Angels.</p>
+            <p>D. 6. <hi>The Joy that cometh at Chriſt's return will be a ſecure and ever<g ref="char:EOLhyphen"/>laſting Joy.</hi> Who ſhould deprive us of it?</p>
+            <p n="1">1. <hi>Not our Selves.</hi> For our trying time will be out, and Confir<g ref="char:EOLhyphen"/>mation will be the reward of Conqueſt.</p>
+            <p n="2">2. <hi>Not Devils.</hi> For there they cannot corrupt our Imaginations, or pervert our Underſtandings, or diſturb our Paſſions.</p>
+            <p n="3">3. <hi>Not any Men.</hi> The Holy and Bleſſed, will encreaſe our Joy; their Joy will be ours. And as for the Wicked, they will be diſen<g ref="char:EOLhyphen"/>abled to hurt us, either by Flatteries, Threats, Reproaches <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cuſations.</p>
+            <p>Now obſerve;</p>
+            <p>I. <hi>The belief of this, rejoices the Soul under all Diſappointment</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Though the ART, and FORM, and WORDS of Holineſs <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo do.</p>
+            <p>I. 2. <hi>Be not Deceived by a Flattering; nor Dejected by a Frou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> World.</hi> No, but place your hopes on the Joys which no Man can tak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from you.</p>
+            <p>O Neglect not theſe Counſels and Requeſts.</p>
+            <p>C. 1. <hi>Spend moſt of your Studies, in confirming your belief of,</hi> 1. <hi>The Truth of the Goſpel.</hi> 2. <hi>The Immortality of the Soul; And,</hi> 3. <hi>The Life to come.</hi> Lay up Treaſure in Heaven; and Live for it, as World<g ref="char:EOLhyphen"/>lings Live for the Fleſh.</p>
+            <p>C. 2. <hi>Flatter not your ſelves with the hopes of Long Life. But make it the Summ of your Religion, Care, and Buſineſs, to be ready for a ſafe and comfortable Death.</hi>
+            </p>
+            <p>C. 3. <hi>Live as in a conſtant War againſt all Fleſhly Luſts, and Love not the World as it cheriſheth thoſe Luſts.</hi> He is never to be truſted, that falls deeply in Love with Riches.</p>
+            <p>C. 4. <hi>Be Furniſhed before-hand with Expectation and Patience, for all Evils that may befall you.</hi> And make not too great a matter of Pover<g ref="char:EOLhyphen"/>ty, or Wrong from Men.</p>
+            <p>C. 5. <hi>Take heed of a Self-conceited, <g ref="char:V">Ʋ</g>nhumbled <g ref="char:V">Ʋ</g>nderſtanding, and of haſty, and raſh Concluſions.</hi> It is a Fool that rageth, and is confident.</p>
+            <p>C. 6. <hi>Maintain <g ref="char:V">Ʋ</g>nion and Communion with all true Chriſtian Chur<g ref="char:EOLhyphen"/>ches.</hi> Hold to Catholick Principles of meer Chriſtianity. Love CHRISTIANS as Chriſtians, but Love the BEST moſt.</p>
+            <p>C. 7. <hi>Be ſure you maintain due Honour and Subjection unto your Go<g ref="char:EOLhyphen"/>vernours, Prov.</hi> 24.21. Obey no Man againſt God. But if you fall under perſecuting Governours, in patience poſſeſs your Souls, truſt God, and hold faſt Innocency, and abhor Rebellion and Revenge. Do nothing but what God will own. Self-ſaving Men, are uſually the deſtroyers of themſelves and others. Peter, <hi>that drew his Sword for Chriſt, denied him the ſame Night, with Oaths and Curſes.</hi> Fools truſt themſelves, and Wiſe Men truſt God. — We may learn Wit from that Fool, who ſeeing great Guns and Muſquets, asked, <hi>What they were to do;</hi> and being told, <hi>they were to Kill Men,</hi> ſaid preſently; <hi>Do not Men Die here without Killing? In our Countrey they will Die of themſelves.</hi>
+            </p>
+            <p>C. 8. <hi>Be ſure you keep up Family Religion.</hi> Eſpecially in the Education of Youth.</p>
+            <p>C. 9. <hi>Live in the Love of God and Man.</hi> Bleſſed be they that faithfully practiſe thoſe three Principles which all do profeſs. <hi>Sc.</hi> 1. <hi>To Love God as God above all, and ſo to Obey him.</hi> 2. <hi>To Love our Neighbour as our ſelves.</hi> 3. <hi>And to Do as we would be done unto.</hi>
+            </p>
+            <p>Notes of the ſame Author, from <hi>Luke</hi> 20.20.</p>
+            <div type="doctrine">
+               <head>
+                  <hi>Doctrine.</hi> To have our Names written in Heaven, is the greateſt Mercy, and firſt, and chiefly, and only for it ſelf to be Rejoiced in. Which ſo puts the eſtimate on all inferior Mercies, that further than they refer to this, they are not to be the matter of our Joy. <hi>For why?</hi>
+               </head>
+               <p>R. 1. <hi>All common Mercies may conſiſt with preſent Miſery.</hi>
+               </p>
+               <p>R. 2. <hi>Yea, they are alſo the ordinary and ſtrong Means of making Men miſerable, and holding them in Miſery.</hi>
+               </p>
+               <p>R. 3. <hi>They are often made the Devils Tools to do his Work by, and are uſed againſt God, to the hindrance of the Goſpel, and injury of the Church.</hi>
+               </p>
+               <p>R. 4. <hi>All of them may end in Miſery, and leave the Owner in Everlaſt<g ref="char:EOLhyphen"/>ing Woe.</hi>
+               </p>
+               <p>But I challenge all the World to tell me,</p>
+               <p>Q. 1. <hi>What ſhould be Rejoiced in if not a Name in Heaven? If not the Lord of Life himſelf, the Joy and Glory of Saints?</hi> What is Heaven, but the Enjoyment of Him?</p>
+               <p>Q. 2. <hi>Is it not fit we now Rejoice, in that wherein we muſt Everlaſt<g ref="char:EOLhyphen"/>ingly Rejoice?</hi> If you knew the Friend and Place in which you were to have but an hundred years Joy, that fore knowledge would make them preſently more delightful to you, than any other.</p>
+               <p>Q. 3. And, <hi>Is not this Joy a Divine, Pure, Profitable, and a War<g ref="char:EOLhyphen"/>rantable one?</hi> Need you be Aſhamed of this? Is not he the beſt Chriſtian, that hath moſt Love, Joy, and Gratitude? Is not he the likeſt to perform beſt his other Duties, and to conquer his remain<g ref="char:EOLhyphen"/>ing Sins?</p>
+               <p>You may be ſure your Names be written in Heaven;</p>
+               <p n="1">1. <hi>If Heaven has the preheminence in your Practical Eſteem.</hi> If you are reſolved to ſtick cloſe to Chriſt whatever it coſt you, and take God for your Portion.</p>
+               <p n="2">2. <hi>If obtaining Heaven be your principal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Care, Buſineſs, and Work, which you mind in the World.</hi>
+               </p>
+               <p n="3">3. <hi>If finding your ſelves Loſt and filthy in Sin, you ſee Chriſt's Suffi<g ref="char:EOLhyphen"/>ciency and Neceſſity, and unfeignedly take him for your Saviour and Lord.</hi>
+               </p>
+               <p n="4">4. <hi>If the Heavenly Nature be moſt amiable in your Eyes.</hi>
+               </p>
+               <p n="5">5. <hi>If you have a ſpecial Love to the Heirs of Heaven.</hi>
+               </p>
+               <p>Rejoice not, till you have theſe Evidences; For, 1. <hi>God <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> not you to Rejoice.</hi> 2. Your Joy is <hi>
+                     <g ref="char:V">Ʋ</g>nreaſonable.</hi> 3. It is <hi>Diſhoneſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Diſingenuous.</hi> 4. It is <hi>Diſhonourable</hi> and <hi>Shameful.</hi> 5. It can be <hi>but Short.</hi> 6. And it is <hi>Unprofitable,</hi> yea <hi>Hurtful.</hi>
+               </p>
+               <p>Rejoice evermore, when you have theſe Evidences; For, Joy b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>longs to you, 'tis your <hi>Priviledge</hi> and your <hi>Duty.</hi> Let not So<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s and Firebrands of Hell, live a more Joyful Life than you, who muſt be Everlaſtingly as full of Joy, as the Sun is of Light.</p>
+               <p>
+                  <hi>Did you but know</hi> 
+                  <hi rend="sup">1</hi> 
+                  <hi>how God approves holy Right Rejoicing, more than your Pining Sorrow; and</hi> 
+                  <hi rend="sup">2</hi> 
+                  <hi>how it ſtrengthens the Soul, and</hi> 
+                  <hi rend="sup">3</hi> 
+                  <hi>ſweetens</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi rend="sup">4</hi> 
+                  <hi>caſeth Sufferings, and</hi> 
+                  <hi rend="sup">5</hi> 
+                  <hi>ſuits Goſpel-grace, and</hi> 
+                  <hi rend="sup">6</hi> 
+                  <hi>encourageth</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi rend="sup">7</hi> 
+                  <hi>ſerves to ſubdue the Sins that trouble you, you would labour and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> your drooping Spirits raiſed.</hi>
+               </p>
+               <p>☞ However; if <hi>Melancholy,</hi> and <hi>your Mistakes, <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                  </hi> ſhall keep you ſad here; as to <hi>your Happineſs,</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> comparatively great. Heaven will wipe away <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Thoſe Joys will be long enough, when they come.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide,</hi> near <hi>Mercers</hi> Chapel. 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
